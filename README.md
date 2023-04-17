@@ -22,4 +22,5 @@ bash shellphish.sh
 & FOLLOW IG > 
 Support the authors:
 
-<noscript><a href="https://instagram.com/d4rk_mods?igshid=YmMyMTA2M2Y="><img alt="Donate using Liberapay" src="https://wa.me/+917902682601"></a></noscript>
+<noscript><a href="https://instagram.com/https.d4rk.x?igshid=YmMyMTA2M2Y="><img alt="Donate using Liberapay" src="https://wa.me/+917902682601"></a></noscript>
+![linux-hacking-hackers-1920x1080-technology-linux-hd-art-wallpaper-preview](https://user-images.githubusercontent.com/86645454/232413633-d9bcf8c8-1ca3-41fd-a8c0-03dbd14f0eef.jpg)
